@@ -1,0 +1,3 @@
+{"patientId": 1, "patientName": "Patient 1", "city": "Newcastle", "postCode": "D1 6QU", "disease": "Cancer"}
+{"patientId": 2, "patientName": "Patient 2", "city": "Cambridge", "postCode": "N6 2YC", "disease": "Cancer"}
+{"patientId": 3, "patientName": "Patient 3", "city": "Leeds", "postCode": "O8 5AG", "disease": "COPD"}
